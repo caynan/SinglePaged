@@ -1,0 +1,61 @@
+{
+    "name": "Skills",
+    "children": [
+        {
+            "name": "Over 3000 lines",
+            "children": [
+                {
+                    "name": "Python",
+                    "children": [
+                        {"name": "flask", "size": 500},
+                        {"name": "Django", "size": 500},
+                        {"name": "Scripts", "size": 2000}
+                    ]
+                },
+                {
+                    "name": "Java",
+                    "children": [
+                        {"name": "Play", "size": 500},
+                        {"name": "Pure", "size": 2500}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Over 1000 lines",
+            "children": [
+                {
+                    "name": "JavaScript",
+                    "children": [
+                        {"name": "AngularJS", "size": 200},
+                        {"name": "JQuery", "size": 400},
+                        {"name": "Scripts", "size": 400}
+                    ]
+                },
+                {
+                    "name": "C/C++", "size": 1000
+                },
+                {
+                    "name": "HTML", "size": 1000
+                },
+                {
+                    "name": "CSS", "size": 1000
+                },
+                {
+                    "name": "R", "size": 1000
+                }
+            ]
+        },
+        {
+            "name": "Less than 1000 lines",
+            "children": [
+                {
+                    "name": "MySQL", "size": 500
+                },
+                {
+                    "name": "LaTex", "size": 200
+                }
+            ]
+        }
+    ]
+}
